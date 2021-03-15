@@ -41,8 +41,16 @@ function sumPolygon(n){
   return (n - 2) * 180
 }
 
+// edabit with arrow functions
+//Create a function that takes two numbers as arguments and return their sum.
 
+const addition = (a, b) => a + b;
 
+//Write a function that takes an integer minutes and converts it to seconds.
+const convert = (minutes) => minutes * 60
+
+// Write a function that converts hours into seconds.
+const howManySeconds = (hours) => hours * 3600
 
 
 
