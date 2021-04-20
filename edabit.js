@@ -55,5 +55,8 @@ const howManySeconds = (hours) => hours * 3600
 // find perimeter
 const findPerimeter = (length,width)=> 2 * length + 2 * width;
 
+//Create a function that takes an array containing only numbers and return the first element.
+
+
 
 
